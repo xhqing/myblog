@@ -2,8 +2,6 @@
 menu:
   Home: /
   Archives: /archives
-  Tags:
-  Categories:
   Github:
     url: https://github.com/xhqing/
     icon: github
