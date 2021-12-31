@@ -1,6 +1,8 @@
 # Header
 menu:
   Home: /
+  Tags: /tags
+  Categories: /categories
   Github:
     url: https://github.com/xhqing/
     icon: github
