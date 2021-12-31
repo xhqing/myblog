@@ -1,7 +1,6 @@
 # Header
 menu:
   Home: /
-  Archives: /archives
   Github:
     url: https://github.com/xhqing/
     icon: github
