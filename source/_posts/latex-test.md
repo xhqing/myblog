@@ -2,6 +2,7 @@
 title: latex_test
 date: 2022-01-03 18:51:30
 tags:
+mathjax: true
 ---
 
 $$
