@@ -7,6 +7,6 @@ tags:
 正好在跨年的时候完成了个人博客的搭建, 这是个好兆头, 新年快乐哈哈!! 欢迎交流, 可以点击下方github icon进入我的github或给我发邮件留言: huaqingxu89@gmail.com
 
 # issue and pr
-All my blog content are in this path: https://github.com/xhqing/myblog/tree/main/source/_posts , welcome to make issue or pr.
+All my blog content are in this path: https://github.com/xhqing/myblog/tree/main/source/_posts , welcome to make issues or PRs.
 
 
