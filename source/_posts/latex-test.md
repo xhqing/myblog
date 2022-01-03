@@ -1,5 +1,5 @@
 ---
-title: latex_test
+title: latex_test_1
 date: 2022-01-03 18:51:30
 tags:
 mathjax: true
