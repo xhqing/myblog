@@ -48,6 +48,5 @@ if __name__ == "__main__":
                 for line in new_lines:
                     f.write(line)
 
-    
-    
+    os.system("hexo deploy")
 
