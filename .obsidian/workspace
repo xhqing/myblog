@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "source/_posts/latex-test.md",
-            "mode": "preview"
+            "file": "source/_posts/hello-2022.md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "source/_posts/latex-test.md",
+                "file": "source/_posts/hello-2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "b41ae07ada7fb0f8",
   "lastOpenFiles": [
+    "source/_posts/hello-2022.md",
+    "source/_posts/hello-world.md",
     "source/_posts/latex-test.md",
     "themes/xclean/README.md",
-    "README.md",
-    "source/_posts/hello-2022.md",
-    "source/_posts/hello-world.md"
+    "README.md"
   ]
 }
