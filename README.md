@@ -21,6 +21,9 @@ dep
 
 it's based on hexo, know more about it [here](https://hexo.io).
 
+# theme
+theme based on [hexo-theme-clean-blog](https://github.com/klugjo/hexo-theme-clean-blog).
+
 # License
 MIT
 
