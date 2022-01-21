@@ -41,3 +41,17 @@ github_url: https://github.com/xhqing/
 gitlab_url:
 linkedin_url:
 mailto:
+
+# Math Formulas Render Support
+math:
+  enable: true
+  per_page: true
+
+# hexo-renderer-pandoc (or hexo-renderer-kramed) required for full MathJax support.
+mathjax:
+   enable: true
+   # See: https://mhchem.github.io/MathJax-mhchem/
+   mhchem: false
+     
+plugins:
+  mathjax: true

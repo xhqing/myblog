@@ -121,4 +121,4 @@ markdown_it_plus:
         enable: true
     - plugin:
         name: markdown-it-mark
-        enable: false
+        enable: true
