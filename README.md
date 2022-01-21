@@ -12,7 +12,7 @@ pwd
 
 # new a post
 # after create a post in ./source/_post it will open typora automatically
-new title_name  
+new "title_name"  
 
 # it will delete the public dir and rebuid dirs and generate all html files
 # and then deploy on github page, you can check blog after minutes 
