@@ -1,5 +1,5 @@
 ---
-title: 数据中心化-数据标准化-数据归一化-数据正态化
+title: 中心化vs标准化vs归一化vs正态化
 date: 2022-01-21 14:37:09
 tags: 机器学习
 mathjax: true
